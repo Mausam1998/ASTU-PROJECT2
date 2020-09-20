@@ -1,2 +1,2 @@
-# Infosys-Stock-Predction_Jugal
+# Infosys-Stock-Predction
 Here We are trying to  predict Infoysys Stock price using Recurrent Neural Network
